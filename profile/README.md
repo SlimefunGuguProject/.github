@@ -6,14 +6,12 @@ This is Slimefun Gugu Project, an unofficial Simplified Chinese translation orga
 目前汉化了粘液科技的大部分附属。  
 We have translated most of Slimefun addons.
 
-欢迎加入QQ群: [205679802](https://ybw0014.net/go/sf-qgroup)，获取附属更新通知。
+欢迎加入QQ群: [205679802](https://50l.cc/sf-qg)，获取附属更新通知。
 
-## 多语言支持的附属 - Multi-language addons
+## 下载 - Download
 
-这些附属拥有多语言支持，你可以将物品，消息显示为你的语言:  
-These addons has multi-language support, you can display items, messages in your language:
-
-[Bump](https://github.com/SlimefunGuguProject/Bump)
+本组织的所有项目均可在[鬼斩资源站](https://resources.guizhanss.com)下载。  
+All of our projects can be downloaded at [Guizhan Resources](https://resources.guizhanss.com).
 
 ## 资源 - Resources
 
